@@ -1,0 +1,34 @@
+[
+  {
+    "guildId": "874697948838101092",
+    "channelWeightConfig": {
+      "defaultWeight": 0,
+      "weights": {
+        "1160393745565503518//wreep": 1,
+        "1148387298178768906//wreep-core": 0.125,
+        "1160403353336041584//wreep-community": 2
+      }
+    },
+    "includeNsfwChannels": false,
+    "propsChannels": [
+      "1160394451647213639"
+    ],
+    "reactionWeightConfig": {
+      "applyAveraging": false,
+      "defaultWeight": 1,
+      "weights": {
+        "👍": 1,
+        "🙌": 1,
+        "🔥": 2,
+        "❤️": 2,
+        "🚀": 4,
+        "🎉": 4
+      }
+    },
+    "roleWeightConfig": {
+      "defaultWeight": 1,
+      "weights": {
+      }
+    }
+  }
+]
