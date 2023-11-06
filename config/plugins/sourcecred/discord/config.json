@@ -28,6 +28,7 @@
     "roleWeightConfig": {
       "defaultWeight": 1,
       "weights": {
+        "918306647045210182//bots": 0
       }
     }
   }
