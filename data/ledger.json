@@ -545,3 +545,13 @@
 {"action":{"identity":{"address":"N\u0000sourcecred\u0000core\u0000IDENTITY\u00004OEHE6dYnFvC3SZGyEq5aw\u0000","aliases":[],"id":"4OEHE6dYnFvC3SZGyEq5aw","name":"manonjourney","subtype":"USER"},"type":"CREATE_IDENTITY"},"ledgerTimestamp":1699147510529,"uuid":"kCK9NXxE3ZHwya66bjL1ag","version":"1"}
 {"action":{"alias":{"address":"N\u0000sourcecred\u0000discord\u0000MEMBER\u0000user\u00001008693413207609426\u0000","description":"discord/manonjourney#0"},"identityId":"4OEHE6dYnFvC3SZGyEq5aw","type":"ADD_ALIAS"},"ledgerTimestamp":1699147510529,"uuid":"n3Rq86iNGien5TlasXdzkg","version":"1"}
 {"action":{"distribution":{"allocations":[],"credTimestamp":1699142400000,"id":"ace0zr2ZLid9afPizW4SrA"},"type":"DISTRIBUTE_GRAIN"},"ledgerTimestamp":1699147512437,"uuid":"LALxCpVNDWDyuYCEgyqDjw","version":"1"}
+{"action":{"identityId":"zlx4cnQOQ4wdFMfglalGng","type":"TOGGLE_ACTIVATION"},"ledgerTimestamp":1699252459805,"uuid":"ws9EQ36PPedpGYtbVXeYVw","version":"1"}
+{"action":{"identityId":"G8R7gj9Qo9B8LRimyIqVhA","type":"TOGGLE_ACTIVATION"},"ledgerTimestamp":1699252466138,"uuid":"n2rslZ8G8gS2AgNXqh0nvA","version":"1"}
+{"action":{"identityId":"KyQcZC8VLqhGXukxQuZeLw","type":"TOGGLE_ACTIVATION"},"ledgerTimestamp":1699252474271,"uuid":"jvXxOYDA3nfX10qpdWycwQ","version":"1"}
+{"action":{"identityId":"2Kxm4XhYcV86qTMdqlXZ6Q","type":"TOGGLE_ACTIVATION"},"ledgerTimestamp":1699252486554,"uuid":"1wUdSqGWvYNxFQd3mqFBsQ","version":"1"}
+{"action":{"base":"2Kxm4XhYcV86qTMdqlXZ6Q","target":"TKmejmk89VuyYpAw7O01gg","type":"MERGE_IDENTITIES"},"ledgerTimestamp":1699252517132,"uuid":"34irImgEaBsgP98vN5Gh1Q","version":"1"}
+{"action":{"identityId":"2Kxm4XhYcV86qTMdqlXZ6Q","type":"TOGGLE_ACTIVATION"},"ledgerTimestamp":1699252566638,"uuid":"bu7kgI9MtESVFKt6lZf24w","version":"1"}
+{"action":{"identityId":"2Kxm4XhYcV86qTMdqlXZ6Q","type":"TOGGLE_ACTIVATION"},"ledgerTimestamp":1699252567687,"uuid":"yMLML1esDYNH8JzT0DOjUA","version":"1"}
+{"action":{"identityId":"2Kxm4XhYcV86qTMdqlXZ6Q","type":"TOGGLE_ACTIVATION"},"ledgerTimestamp":1699252567752,"uuid":"hKmMvYwRxq8W9HWWJfqEsQ","version":"1"}
+{"action":{"identityId":"2Kxm4XhYcV86qTMdqlXZ6Q","type":"TOGGLE_ACTIVATION"},"ledgerTimestamp":1699258241310,"uuid":"xHjj8WyXRTxHkJCaqIvksA","version":"1"}
+{"action":{"identityId":"RRNGnqIrwjH6q42O4WlXBQ","type":"TOGGLE_ACTIVATION"},"ledgerTimestamp":1699258366579,"uuid":"VYHR2pTKN2xymJ3AlHqWQQ","version":"1"}
