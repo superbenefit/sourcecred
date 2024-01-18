@@ -612,3 +612,5 @@
 {"action":{"identityId":"rZxDhNRgqKOSM58zhMqMjA","type":"TOGGLE_ACTIVATION"},"ledgerTimestamp":1705380826651,"uuid":"L6nY38t2WxJlOfrPXzqvrg","version":"1"}
 {"action":{"identityId":"kgpM0mGvU43SzCDdNANvlg","type":"TOGGLE_ACTIVATION"},"ledgerTimestamp":1705380837159,"uuid":"biL9oOvFQEZBYujz4YXseA","version":"1"}
 {"action":{"identityId":"DeOrFmydvg7MmYNPGm8nRw","type":"TOGGLE_ACTIVATION"},"ledgerTimestamp":1705380842338,"uuid":"cjlw9mVGvDfN1s859Rgm7w","version":"1"}
+{"action":{"identity":{"address":"N\u0000sourcecred\u0000core\u0000IDENTITY\u0000HzWq1xKwrBfRNVkJSxy0aw\u0000","aliases":[],"id":"HzWq1xKwrBfRNVkJSxy0aw","name":"dzunam","subtype":"USER"},"type":"CREATE_IDENTITY"},"ledgerTimestamp":1705539704225,"uuid":"SbpxmOaNqzeZ9bCzkG5fwA","version":"1"}
+{"action":{"alias":{"address":"N\u0000sourcecred\u0000discord\u0000MEMBER\u0000user\u0000987612674777034792\u0000","description":"discord/dzunam#0"},"identityId":"HzWq1xKwrBfRNVkJSxy0aw","type":"ADD_ALIAS"},"ledgerTimestamp":1705539704225,"uuid":"97DSVDYPmbwTVYW0hQfKVQ","version":"1"}
