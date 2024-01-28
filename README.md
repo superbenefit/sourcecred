@@ -29,6 +29,8 @@ Currently only channels in the Wreep category are tracked by sourcecred. The def
 : 0.125 points  
 - **#wreep-community**
 : 2 points  
+- **#wreep-discussion**
+: 2 points
 
 #### Discord Reaction Weights
 
@@ -51,7 +53,7 @@ The default weight for reactions in the channels listed above is **1 point**. We
 
 The GitHub plugin for Sourcecred currently tracks the following repositories:
 
-- [possibilian/wreep-docs](https://github.com/possibilian/wreep-docs)
+- [superbenefit/wreep-docs](https://github.com/superbenefit/sourcecred)
 
 #### GitHub Reaction Weights
 
