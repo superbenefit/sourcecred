@@ -1,12 +1,12 @@
 {
   "allocationPolicies": [
     {
-      "budget": "500",
+      "budget": "5000",
       "numIntervalsLookback": 1,
       "policyType": "IMMEDIATE"
     },
     {
-      "budget": "500",
+      "budget": "5000",
       "numIntervalsLookback": 6,
       "policyType": "BALANCED"
     }
