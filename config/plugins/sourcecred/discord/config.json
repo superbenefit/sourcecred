@@ -6,7 +6,8 @@
       "weights": {
         "1160393745565503518//wreep": 1,
         "1148387298178768906//wreep-core": 0.125,
-        "1160403353336041584//wreep-community": 2
+        "1160403353336041584//wreep-community": 2,
+        "1166141981190262824//wreep-discussion": 2
       }
     },
     "includeNsfwChannels": false,
